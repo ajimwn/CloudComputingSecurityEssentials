@@ -26,6 +26,8 @@ AWS CLI v2 is used to send AWS commands to the LocalStack environment locally.
 - Installed `kind` and `kubectl`.
 - Verified the installations by checking their respective versions (`kind --version` and `kubectl version --client`).
 
+![Step 3 - kind & kubectl](./3.png)
+
 ### 4. Helper Tools (OpenSSL, oathtool, Trivy)
 These helper tools are required for various lab tasks such as encryption, MFA/TOTP code generation, and vulnerability scanning.
 - Installed/Verified OpenSSL and oathtool. (Trivy is run via Docker).
