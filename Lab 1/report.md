@@ -1,7 +1,6 @@
 # Lab 1: Account Security and IAM Report
 
-**Name:** Wan Muhammad Azim Bin Wan Mohd Hazan Amri  
-**Student ID:** 52215225024  
+**Name:** Jim Moriarty
 
 ## 1. Screenshots
 
