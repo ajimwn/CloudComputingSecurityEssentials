@@ -1,8 +1,7 @@
 # IKB42603 Cloud Computing Security Essentials
 ## Lab 0: Environment Setup Report
 
-**Name:** WAN MUHAMMAD AZIM BIN WAN MOHD HAZAN AMRI  
-**ID:** 52215225024  
+**Name:** Jim Moriarty
 
 This report documents the local environment setup for the Cloud Computing Security Essentials labs, ensuring all necessary tools (Docker, AWS CLI, Kubernetes, and helper tools) are installed and configured.
 
