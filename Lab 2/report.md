@@ -1,12 +1,7 @@
-# Lab 2: Secure Isolation & Multi-Tenancy
-**Course:** IKB42603 Cloud Computing Security Essentials
-**Lab:** LAB 2 · Weeks 3–4
-**Topic:** Compute, Network and Storage Isolation — Docker & Kubernetes
-**Student:** Jim
-**Date:** 10 August 2026
-**Instructor:** Prof. Dr. Shahrulniza Musa · UniKL MIIT
+# IKB42603 Cloud Computing Security Essentials
+## Lab 2: Secure Isolation & Multi-Tenancy
 
----
+**Name:** Jim Moriarty
 
 ## 1. Objective
 
