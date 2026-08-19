@@ -1,11 +1,7 @@
 # IKB42603 Cloud Computing Security Essentials
 ## Lab 3 — Data Protection: Encryption & Key Management
 
-**Student:** Jim
-**Lab:** Lab 3 · Weeks 5–6
-**Instructor:** Prof. Dr. Shahrulniza Musa
-**Institution:** UniKL MIIT
-**Date:** 19 August 2026
+**Name:** Jim Moriarty
 
 ---
 
