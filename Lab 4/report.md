@@ -1,10 +1,7 @@
 # IKB42603 Cloud Computing Security Essentials
 ## Lab 4: Access Control and Network Security
 
-**Student Name:** Jim  
-**Lab Session:** Week 7 (Session A) & Week 8 (Session B)  
-**Date:** 27 August 2026  
-**Instructor:** Prof. Dr. Shahrulniza Musa — UniKL MIIT
+**Name:** Jim Moriarty
 
 ---
 
