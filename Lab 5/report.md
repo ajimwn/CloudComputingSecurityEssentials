@@ -1,10 +1,7 @@
 # IKB42603 Cloud Computing Security Essentials
 ## Lab 5: Monitoring, Logging and Incident Detection
 
-**Student Name:** Jim  
-**Lab Session:** Session A (Week 9) & Session B (Week 10)  
-**Date:** 4 September 2026  
-**Lecturer:** Prof. Dr. Shahrulniza Musa  
+**Name:** Jim Moriarty
 
 ---
 
